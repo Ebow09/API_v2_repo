@@ -15,3 +15,8 @@ The API downloads the exchange rates and stores them in a table. The table has 2
 - Composer 2.0
 
 After configuration, clone this project to your htdocs folder
+
+### Database file
+The database file used for this project is attached. The database name is currencies and the table name is exchange_rates.
+
+[currencies.zip](https://github.com/Ebow09/API_v2_repo/files/9133369/currencies.zip)
